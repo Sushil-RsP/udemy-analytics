@@ -4,8 +4,6 @@
 
 An interactive Power BI dashboard that analyzes Udemy course data to uncover insights on ratings, enrollments, and revenue. This project demonstrates data analytics, visualization, and business intelligence skills using Power BI and DAX.
 
-📊 Project Overview
-### 📸 Dashboard Preview  
 ### 📸 Dashboard Preview  
 [![Power BI Dashboard](Screenshot%202025-10-29%20145617.png)](https://app.powerbi.com/view?r=eyJrIjoiOGI1ODgxZjUtY2FiNy00NTUyLTk1ZGEtMmVkOTUyODk5MjliIiwidCI6IjdjMDg4NjllLWQzN2QtNDAyMi1hYzcwLTc0NmFjZmFhZGViYiJ9)
 
