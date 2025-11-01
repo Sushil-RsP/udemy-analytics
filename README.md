@@ -6,7 +6,7 @@ An interactive Power BI dashboard that analyzes Udemy course data to uncover ins
 
 📊 Project Overview
 ### 📸 Dashboard Preview  
-[![Power BI Dashboard](Screenshot 2025-10-29 145617.png)](https://app.powerbi.com/view?r=eyJrIjoiOGI1ODgxZjUtY2FiNy00NTUyLTk1ZGEtMmVkOTUyODk5MjliIiwidCI6IjdjMDg4NjllLWQzN2QtNDAyMi1hYzcwLTc0NmFjZmFhZGViYiJ9)
+[![Power BI Dashboard](./Screenshot 2025-10-29 145617.png)](https://app.powerbi.com/view?r=eyJrIjoiOGI1ODgxZjUtY2FiNy00NTUyLTk1ZGEtMmVkOTUyODk5MjliIiwidCI6IjdjMDg4NjllLWQzN2QtNDAyMi1hYzcwLTc0NmFjZmFhZGViYiJ9)
 
 
 The Udemy Analytics Dashboard provides data-driven insights to help understand:
